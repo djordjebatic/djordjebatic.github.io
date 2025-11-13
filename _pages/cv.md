@@ -1,7 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: CV
-nav: false
-cv_pdf: CV_Djordje_Batic.pdf
+# layout: cv
+permalink: /assets/pdf/CV_Djordje_Batic.pdf
+title: cv
+nav: true
+nav_order: 5
 ---
