@@ -7,7 +7,7 @@ subtitle: Postdoctoral Researcher @ University of Strathclyde | PhD | ex-Marie C
 profile:
   align: right
   image: djordje_batic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
