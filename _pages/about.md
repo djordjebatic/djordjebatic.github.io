@@ -26,7 +26,7 @@ latest_posts:
 
 AI Research Engineer with 5+ years of experience in designing AI systems. My work focuses on (edge) AI training and evaluation, with emphasis on diagnosing model failures, applying techniques such as knowledge distillation and attribution-based regularization to improve model behaviour (AI Model Compression), designing automated evaluation frameworks to assess model performance and reliability across diverse scenarios and edge cases (Data & Model Evaluation), incorporating domain knowledge into development workflows and designing interpretable training objectives to enhance model performance and reliability for real-world deployment (Interpretability and Deployment).
 
-I'm also open to collaborations in these areas. If you have a project idea, want to discuss research, or just want to connect, best way to contact me is via [email](mailto:djordjebatic@gmail.com).
+I'm also open to collaborations in these areas. If you have a project idea, want to discuss research, or just want to connect, the best way to contact me is via my [personal email](mailto:djordjebatic@gmail.com).
 
 Beyond research, I like building and flying FPV drones, social dance, Hong Kong cinema and free jazz.
 
