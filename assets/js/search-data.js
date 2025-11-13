@@ -28,7 +28,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-pleased-to-announce-that-our-paper-geodemographic-aware-electric-vehicle-charging-location-planning-for-equitable-placement-using-graph-neural-networks-case-study-of-scotland-metropolitan-areas-energy-got-accepted-in-elsevier-energy",
+            },},{id: "news-i-ve-completed-my-phd-work-under-msca-itn-marie-curie-fellowship-and-will-be-starting-a-new-position-as-postdoctoral-researcher-university-of-strathclyde",
+          title: 'I’ve completed my PhD work under MSCA ITN Marie Curie Fellowship and will...',
+          description: "",
+          section: "News",},{id: "news-pleased-to-announce-that-our-paper-geodemographic-aware-electric-vehicle-charging-location-planning-for-equitable-placement-using-graph-neural-networks-case-study-of-scotland-metropolitan-areas-energy-got-accepted-in-elsevier-energy",
           title: 'Pleased to announce that our paper “Geodemographic Aware Electric Vehicle Charging Location Planning...',
           description: "",
           section: "News",},{id: "news-pleased-to-announce-that-i-ve-succesfully-defended-my-phd-thesis-i-would-like-to-thank-my-supervisors-vladimir-and-lina-stankovic-for-their-support-as-well-as-my-external-examiners-nikos-deligiannis-and-johannes-norheim-for-their-valuable-input-insightful-discussion-and-the-time-dedicated-to-my-work",
@@ -37,7 +40,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-interpretability-and-reliability-driven-knowledge-distillation-for-non-intrusive-load-monitoring-on-the-edge-got-accepted-in-elsevier-expert-systems-with-applications",
           title: 'Our paper “Interpretability and Reliability-driven Knowledge Distillation for Non-intrusive Load Monitoring on the...',
           description: "",
-          section: "News",},{id: "news-i-ve-open-sourced-my-work-on-carbon-intensity-of-5-million-ev-charging-sessions-in-scotland-check-out-the-repo-and-associated-dataset",
+          section: "News",},{id: "news-i-ve-open-sourced-my-work-on-carbon-intensity-of-5-million-ev-charging-sessions-in-scotland-check-out-this-github-repo-and-the-associated-huggingface-dataset",
           title: 'I’ve open sourced my work on carbon intensity of 5+ million EV charging...',
           description: "",
           section: "News",},{id: "projects-project-1",
