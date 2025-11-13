@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/assets/pdf/CV_Djordje_Batic.pdf";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
