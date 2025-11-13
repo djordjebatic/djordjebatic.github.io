@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pleased to announce that our paper "Geodemographic Aware Electric Vehicle Charging Location Planning for Equitable Placement using Graph Neural Networks: Case Study of Scotland Metropolitan Areas Energy" got accepted in Elsevier Energy.
+Our paper "Geodemographic Aware Electric Vehicle Charging Location Planning for Equitable Placement using Graph Neural Networks: Case Study of Scotland Metropolitan Areas Energy" got accepted in Elsevier Energy
