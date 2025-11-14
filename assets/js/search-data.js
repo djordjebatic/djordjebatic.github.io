@@ -27,7 +27,7 @@ ninja.data = [{
           title: 'I’ve completed my PhD work under MSCA ITN Marie Curie Fellowship and will...',
           description: "",
           section: "News",},{id: "news-our-paper-geodemographic-aware-electric-vehicle-charging-location-planning-for-equitable-placement-using-graph-neural-networks-case-study-of-scotland-metropolitan-areas-energy-got-accepted-in-elsevier-energy",
-          title: 'Our paper “Geodemographic Aware Electric Vehicle Charging Location Planning for Equitable Placement using...',
+          title: '🚀 Our paper “Geodemographic Aware Electric Vehicle Charging Location Planning for Equitable Placement...',
           description: "",
           section: "News",},{id: "news-pleased-to-announce-that-i-ve-succesfully-defended-my-phd-thesis-i-would-like-to-thank-my-supervisors-vladimir-and-lina-stankovic-for-their-support-as-well-as-my-external-examiners-nikos-deligiannis-and-johannes-norheim-for-their-valuable-input-insightful-discussion-and-the-time-dedicated-to-my-work",
           title: 'Pleased to announce that I’ve succesfully defended my PhD thesis! I would like...',
