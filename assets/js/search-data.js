@@ -35,8 +35,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-interpretability-and-reliability-driven-knowledge-distillation-for-non-intrusive-load-monitoring-on-the-edge-got-accepted-in-elsevier-expert-systems-with-applications",
           title: '🚀 Our paper “Interpretability and Reliability-driven Knowledge Distillation for Non-intrusive Load Monitoring on...',
           description: "",
-          section: "News",},{id: "news-i-ve-open-sourced-my-work-on-carbon-intensity-of-5-million-ev-charging-sessions-in-scotland-check-out-this-github-repo-and-the-associated-huggingface-dataset",
-          title: '⚡🔌 I’ve open sourced my work on carbon intensity of 5+ million EV...',
+          section: "News",},{id: "news-i-ve-open-sourced-work-on-carbon-intensity-of-5-million-ev-charging-sessions-in-scotland-check-out-this-github-repo-and-the-associated-huggingface-dataset",
+          title: '⚡🔌 I’ve open sourced work on carbon intensity of 5+ million EV charging...',
           description: "",
           section: "News",},{
         id: 'social-email',
