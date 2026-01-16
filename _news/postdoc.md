@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've completed my PhD work under MSCA ITN Marie Curie Fellowship and will be starting a new position as (Postdoctoral) Researcher @ University of Strathclyde
+I've completed my PhD work under MSCA ITN Marie Curie Fellowship and will be starting a new position as (Postdoctoral) Researcher @ University of Strathclyde.
