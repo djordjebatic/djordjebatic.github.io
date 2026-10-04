@@ -1,6 +1,29 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+{% if page.permalink == '/' %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "url": {{ '/' | absolute_url | jsonify }},
+      "mainEntity": {
+        "@type": "Person",
+        "@id": {{ '/#person' | absolute_url | jsonify }},
+        "name": "{{ site.first_name }} {{ site.last_name }}",
+        "url": {{ '/' | absolute_url | jsonify }},
+        "description": {{ page.description | jsonify }},
+        "image": {{ '/assets/img/1761696093008~3.jpg' | absolute_url | jsonify }},
+        "sameAs": [
+          "https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}",
+          "https://github.com/{{ site.data.socials.github_username }}",
+          "https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}"
+        ]
+      }
+    }
+  </script>
+{% endif %}
+
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <link
