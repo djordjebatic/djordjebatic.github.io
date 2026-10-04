@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "Selected experience and research.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV_Djordje_Batic.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "news-i-ve-completed-my-phd-work-under-msca-itn-marie-curie-fellowship-and-will-be-starting-a-new-position-as-postdoctoral-researcher-university-of-strathclyde",
           title: 'I’ve completed my PhD work under MSCA ITN Marie Curie Fellowship and will...',
